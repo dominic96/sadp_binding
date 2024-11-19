@@ -1,0 +1,4 @@
+C:/Users/domin/Workspace/CPP/sadp_binding/build/CMakeFiles/webcam_streamer.dir
+C:/Users/domin/Workspace/CPP/sadp_binding/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/domin/Workspace/CPP/sadp_binding/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/domin/Workspace/CPP/sadp_binding/build/pybind11/CMakeFiles/ALL_BUILD.dir
